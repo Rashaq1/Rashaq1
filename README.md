@@ -16,7 +16,8 @@ AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has 
 
 | Project | What it is |
 |---|---|
-| [classroom-attention-Sharingan](https://github.com/Rashaq1/classroom-attention-Sharingan) | FOCAL, my senior project: classroom attention analytics — multi-person gaze estimation (Sharingan, CVPR 2024) + YOLOv5 head detection + OC-SORT tracking |
+| [focal-attention-ai](https://github.com/Rashaq1/focal-attention-ai) | The AI core of FOCAL, my senior project: classroom attention analytics — YOLOv8 + ByteTrack + confidence-weighted attention scoring, privacy-first face blurring |
+| [classroom-attention-Sharingan](https://github.com/Rashaq1/classroom-attention-Sharingan) | FOCAL gaze experiments — multi-person gaze estimation (Sharingan, CVPR 2024) + YOLOv5 head detection |
 | [Attention_Logger](https://github.com/Rashaq1/Attention_Logger) | Real-time blink / gaze / head-pose extraction from a webcam — MediaPipe FaceMesh + OpenCV |
 | [portfolio](https://github.com/Rashaq1/portfolio) | My bilingual EN/AR portfolio — Next.js + TypeScript static export, full RTL mirroring → [rashaalnajialqahtani.com](https://rashaalnajialqahtani.com) |
 | [itzen-website](https://github.com/Rashaq1/itzen-website) | IT'ZEN's company site — hand-written HTML/CSS/JS, Arabic-first with EN toggle → [itzenhealth.com](https://itzenhealth.com) |
