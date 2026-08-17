@@ -22,6 +22,7 @@ AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has 
 | [portfolio](https://github.com/Rashaq1/portfolio) | My bilingual EN/AR portfolio — Next.js + TypeScript static export, full RTL mirroring → [rashaalnajialqahtani.com](https://rashaalnajialqahtani.com) |
 | [itzen-website](https://github.com/Rashaq1/itzen-website) | IT'ZEN's company site — hand-written HTML/CSS/JS, Arabic-first with EN toggle → [itzenhealth.com](https://itzenhealth.com) |
 | [who5-wellbeing-model](https://github.com/Rashaq1/who5-wellbeing-model) | Predicting WHO-5 psychological well-being from commuting & occupational data (813 Saudi adults) — DNN vs. tuned Random Forest, SHAP explainability. Presented at WiDS Riyadh 2025 |
+| [Besar | بصار](https://github.com/FarisHijazi/VisualPollutionDetection-GlobalAISummit-SDAIAsmartathon) | Visual-pollution detection from street imagery — **77.71 mAP** with model ensembling + test-time augmentation, deployed on edge. SDAIA Smartathon (Global AI Summit). My role: **project manager** of the multidisciplinary team; code by teammate Faris Hijazi |
 | Ana Baad (أنا بعد) | Arabic mood-sharing iOS app — SwiftUI + Firebase, push via Cloudflare Workers → APNs; App Store release in progress |
 
 ## GitHub stats
