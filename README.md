@@ -1,0 +1,35 @@
+# Rasha Alnaji Alqahtani
+
+AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has to answer one question before anything else: **who does this help?**
+
+**Now** — Founder & CEO of [IT'ZEN | إتـزن](https://itzenhealth.com), a Saudi startup building AI mental-health tools on research I started at 17.
+
+**Before** — Data Engineer (Co-op) on EY's AI & Data team (Dataiku transformation pipelines, per-entity time-series anomaly detection, Power BI). B.Sc. Software Engineering, AI & Data Science track, Prince Sultan University — First Honors.
+
+## Highlights
+
+- **3rd Place Worldwide, Regeneron ISEF 2021** (Behavioral & Social Sciences) + American Psychological Association Award — for a video game that assesses anxiety, featured by [Smithsonian Magazine](https://www.smithsonianmag.com/innovation/this-teenager-is-developing-video-game-that-assesses-your-mental-health-180978457/)
+- **1st Place, Startup Weekend Riyadh 2026** (IT'ZEN) · **1st Place + Exceptional Innovation Award**, King Salman Relief × Alfaisal University Hackathon 2025 (HopeLens — offline crisis-diagnostic smart glasses)
+- **400+ students taught** — including Computer Organization & Digital Logic in Arabic on the Qimah platform (300+ students, 150+ recorded lectures)
+
+## Selected work
+
+| Project | What it is |
+|---|---|
+| [classroom-attention-Sharingan](https://github.com/Rashaq1/classroom-attention-Sharingan) | FOCAL, my senior project: classroom attention analytics — multi-person gaze estimation (Sharingan, CVPR 2024) + YOLOv5 head detection + OC-SORT tracking |
+| [Attention_Logger](https://github.com/Rashaq1/Attention_Logger) | Real-time blink / gaze / head-pose extraction from a webcam — MediaPipe FaceMesh + OpenCV |
+| [portfolio](https://github.com/Rashaq1/portfolio) | My bilingual EN/AR portfolio — Next.js + TypeScript static export, full RTL mirroring → [rashaalnajialqahtani.com](https://rashaalnajialqahtani.com) |
+| [itzen-website](https://github.com/Rashaq1/itzen-website) | IT'ZEN's company site — hand-written HTML/CSS/JS, Arabic-first with EN toggle → [itzenhealth.com](https://itzenhealth.com) |
+| [who5-wellbeing-model](https://github.com/Rashaq1/who5-wellbeing-model) | Predicting WHO-5 psychological well-being from commuting & occupational data (813 Saudi adults) — DNN vs. tuned Random Forest, SHAP explainability. Presented at WiDS Riyadh 2025 |
+| Ana Baad (أنا بعد) | Arabic mood-sharing iOS app — SwiftUI + Firebase, push via Cloudflare Workers → APNs; App Store release in progress |
+
+## GitHub stats
+
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rashaq1&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashaq1&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+## Elsewhere
+
+[rashaalnajialqahtani.com](https://rashaalnajialqahtani.com) · [LinkedIn](https://www.linkedin.com/in/rashaalnajialqahtani/) · [X](https://x.com/rasha_alqahtani)
