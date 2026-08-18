@@ -14,20 +14,39 @@ AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has 
 
 ## Selected work
 
-| Project | What it is |
-|---|---|
-| [focal-attention-ai](https://github.com/Rashaq1/focal-attention-ai) | The AI core of FOCAL, my senior project: classroom attention analytics — YOLOv8 + ByteTrack + confidence-weighted attention scoring, privacy-first face blurring |
-| [classroom-attention-Sharingan](https://github.com/Rashaq1/classroom-attention-Sharingan) | FOCAL gaze experiments — multi-person gaze estimation (Sharingan, CVPR 2024) + YOLOv5 head detection |
-| [Attention_Logger](https://github.com/Rashaq1/Attention_Logger) | Real-time blink / gaze / head-pose extraction from a webcam — MediaPipe FaceMesh + OpenCV |
-| [portfolio](https://github.com/Rashaq1/portfolio) | My bilingual EN/AR portfolio — Next.js + TypeScript static export, full RTL mirroring → [rashaalnajialqahtani.com](https://rashaalnajialqahtani.com) |
-| [itzen-website](https://github.com/Rashaq1/itzen-website) | IT'ZEN's company site — hand-written HTML/CSS/JS, Arabic-first with EN toggle → [itzenhealth.com](https://itzenhealth.com) |
-| [who5-wellbeing-model](https://github.com/Rashaq1/who5-wellbeing-model) | Predicting WHO-5 psychological well-being from commuting & occupational data (813 Saudi adults) — DNN vs. tuned Random Forest, SHAP explainability. Presented at WiDS Riyadh 2025 |
-| [suhail-chatbot](https://github.com/Rashaq1/suhail-chatbot) | Suhail \| سهيل — retrieval-grounded chatbot for Saudi culture (ChromaDB + GPT-3.5 + hand-curated dataset). **Published at IEEE WiDS PSU 2025** |
-| [Besar \| بصار](https://github.com/FarisHijazi/VisualPollutionDetection-GlobalAISummit-SDAIAsmartathon) | Visual-pollution detection from street imagery — **77.71 mAP** with model ensembling + test-time augmentation, deployed on edge. SDAIA Smartathon (Global AI Summit). My role: **project manager** of the multidisciplinary team; code by teammate Faris Hijazi |
-| [saji-database](https://github.com/Rashaq1/saji-database) | Relational DB for a Saudi furniture firm — ER/EER modeling, 12-table normalized MySQL schema, advanced SQL (views, EXISTS, INTERSECT), JDBC console app |
-| [breath-hci-case-study](https://github.com/Rashaq1/breath-hci-case-study) | Breath \| تنفس — breath-controlled mobile game making OCD therapy playful for teens (mic-as-controller). HCI case study: hi-fi prototype, accessibility modes, user + heuristic evaluation |
-| [hopelens](https://github.com/Rashaq1/hopelens) | AI first-aid AR smart glasses — real-time **offline** burn detection & triage for humanitarian crisis zones (YOLOv7 + TensorRT, Vuzix Blade). **Paper accepted at HCI International (Springer)** · hackathon 1st place · UNDP-featured |
-| Ana Baad (أنا بعد) | Arabic mood-sharing iOS app — SwiftUI + Firebase, push via Cloudflare Workers → APNs; App Store release in progress |
+### 📄 Peer-reviewed research
+
+**[hopelens](https://github.com/Rashaq1/hopelens)** ![Springer](https://img.shields.io/badge/HCI_International-Springer,_to_appear-1B6AC6)
+AI first-aid AR smart glasses — real-time **offline** burn detection & triage for humanitarian crisis zones (YOLOv7 + TensorRT on Vuzix Blade). 🏆 Hackathon 1st place · featured by UNDP.
+
+**[suhail-chatbot](https://github.com/Rashaq1/suhail-chatbot)** ![IEEE](https://img.shields.io/badge/IEEE-WiDS_PSU_2025-00629B)
+Suhail \| سهيل — retrieval-grounded chatbot for Saudi culture: ChromaDB + GPT-3.5 over a hand-curated cultural dataset, built to never invent heritage. [Paper](https://ieeexplore.ieee.org/document/11014979).
+
+**[who5-wellbeing-model](https://github.com/Rashaq1/who5-wellbeing-model)**
+Predicting WHO-5 psychological well-being from commuting & occupational data (813 Saudi adults) — DNN vs. tuned Random Forest, SHAP explainability. Presented at WiDS Riyadh 2025.
+
+### 🧠 AI & computer vision
+
+**[focal-attention-ai](https://github.com/Rashaq1/focal-attention-ai)**
+The AI core of FOCAL, my senior project: classroom attention analytics — YOLOv8 + ByteTrack + confidence-weighted attention scoring, privacy-first face blurring.
+↳ companions: [classroom-attention-Sharingan](https://github.com/Rashaq1/classroom-attention-Sharingan) (multi-person gaze estimation) · [Attention_Logger](https://github.com/Rashaq1/Attention_Logger) (blink / gaze / head-pose signals)
+
+**[Besar \| بصار](https://github.com/FarisHijazi/VisualPollutionDetection-GlobalAISummit-SDAIAsmartathon)**
+Visual-pollution detection from street imagery — **77.71 mAP**, deployed on edge (SDAIA Smartathon, Global AI Summit). My role: **project manager**; code by teammate Faris Hijazi.
+
+### 🚀 Products & web
+
+**Ana Baad \| أنا بعد** — Arabic mood-sharing iOS app: SwiftUI + Firebase, push via Cloudflare Workers → APNs. App Store release in progress.
+
+**[itzen-website](https://github.com/Rashaq1/itzen-website)** — [IT'ZEN](https://itzenhealth.com)'s company site: Arabic-first, hand-written HTML/CSS/JS, no framework.
+
+**[portfolio](https://github.com/Rashaq1/portfolio)** — my bilingual EN/AR site: Next.js + TypeScript static export, full RTL mirroring → [rashaalnajialqahtani.com](https://rashaalnajialqahtani.com).
+
+### 🗃️ Data & design
+
+**[saji-database](https://github.com/Rashaq1/saji-database)** — ER/EER-modeled, 12-table normalized MySQL system for a Saudi furniture firm — advanced SQL (views, EXISTS, INTERSECT) + JDBC console app.
+
+**[breath-hci-case-study](https://github.com/Rashaq1/breath-hci-case-study)** — Breath \| تنفس: a breath-controlled game that makes OCD therapy playful for teens — your microphone is the controller. Full HCI case study.
 
 ## GitHub stats
 
