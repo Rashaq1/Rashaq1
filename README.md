@@ -24,6 +24,7 @@ AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has 
 | [who5-wellbeing-model](https://github.com/Rashaq1/who5-wellbeing-model) | Predicting WHO-5 psychological well-being from commuting & occupational data (813 Saudi adults) — DNN vs. tuned Random Forest, SHAP explainability. Presented at WiDS Riyadh 2025 |
 | [suhail-chatbot](https://github.com/Rashaq1/suhail-chatbot) | Suhail \| سهيل — retrieval-grounded chatbot for Saudi culture (ChromaDB + GPT-3.5 + hand-curated dataset). **Published at IEEE WiDS PSU 2025** |
 | [Besar \| بصار](https://github.com/FarisHijazi/VisualPollutionDetection-GlobalAISummit-SDAIAsmartathon) | Visual-pollution detection from street imagery — **77.71 mAP** with model ensembling + test-time augmentation, deployed on edge. SDAIA Smartathon (Global AI Summit). My role: **project manager** of the multidisciplinary team; code by teammate Faris Hijazi |
+| [saji-database](https://github.com/Rashaq1/saji-database) | Relational DB for a Saudi furniture firm — ER/EER modeling, 12-table normalized MySQL schema, advanced SQL (views, EXISTS, INTERSECT), JDBC console app |
 | Ana Baad (أنا بعد) | Arabic mood-sharing iOS app — SwiftUI + Firebase, push via Cloudflare Workers → APNs; App Store release in progress |
 
 ## GitHub stats
