@@ -16,7 +16,7 @@ AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has 
 
 ### 📄 Peer-reviewed research
 
-**[hopelens](https://github.com/Rashaq1/hopelens)** ![Springer](https://img.shields.io/badge/HCI_International-Springer,_to_appear-1B6AC6)
+**[hopelens](https://github.com/Rashaq1/hopelens)** [![Springer](https://img.shields.io/badge/Springer_LNCS-published_2026-1B6AC6)](https://link.springer.com/chapter/10.1007/978-3-032-29653-5_15)
 AI first-aid AR smart glasses — real-time **offline** burn detection & triage for humanitarian crisis zones (YOLOv7 + TensorRT on Vuzix Blade). 🏆 Hackathon 1st place · featured by UNDP.
 
 **[suhail-chatbot](https://github.com/Rashaq1/suhail-chatbot)** ![IEEE](https://img.shields.io/badge/IEEE-WiDS_PSU_2025-00629B)
