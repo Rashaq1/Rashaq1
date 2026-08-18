@@ -36,7 +36,8 @@ Visual-pollution detection from street imagery — **77.71 mAP**, deployed on ed
 
 ### 🚀 Products & web
 
-**Ana Baad | أنا بعد** — Arabic mood-sharing iOS app: SwiftUI + Firebase, push via Cloudflare Workers → APNs. App Store release in progress.
+**[Ana Baad | أنا بعد](https://apps.apple.com/sa/app/id6801842054)** 📱 **Live on the App Store**
+Arabic mood-sharing iOS app — share how you feel anonymously and hear "أنا بعد" back. SwiftUI + Firebase, push via Cloudflare Workers → APNs, home-screen widgets.
 
 **[itzen-website](https://github.com/Rashaq1/itzen-website)** — [IT'ZEN](https://itzenhealth.com)'s company site: Arabic-first, hand-written HTML/CSS/JS, no framework.
 
