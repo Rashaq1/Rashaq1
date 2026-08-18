@@ -25,6 +25,7 @@ AI & Data Science engineer in Riyadh, Saudi Arabia. I build technology that has 
 | [suhail-chatbot](https://github.com/Rashaq1/suhail-chatbot) | Suhail \| سهيل — retrieval-grounded chatbot for Saudi culture (ChromaDB + GPT-3.5 + hand-curated dataset). **Published at IEEE WiDS PSU 2025** |
 | [Besar \| بصار](https://github.com/FarisHijazi/VisualPollutionDetection-GlobalAISummit-SDAIAsmartathon) | Visual-pollution detection from street imagery — **77.71 mAP** with model ensembling + test-time augmentation, deployed on edge. SDAIA Smartathon (Global AI Summit). My role: **project manager** of the multidisciplinary team; code by teammate Faris Hijazi |
 | [saji-database](https://github.com/Rashaq1/saji-database) | Relational DB for a Saudi furniture firm — ER/EER modeling, 12-table normalized MySQL schema, advanced SQL (views, EXISTS, INTERSECT), JDBC console app |
+| [breath-hci-case-study](https://github.com/Rashaq1/breath-hci-case-study) | Breath \| تنفس — breath-controlled mobile game making OCD therapy playful for teens (mic-as-controller). HCI case study: hi-fi prototype, accessibility modes, user + heuristic evaluation |
 | Ana Baad (أنا بعد) | Arabic mood-sharing iOS app — SwiftUI + Firebase, push via Cloudflare Workers → APNs; App Store release in progress |
 
 ## GitHub stats
